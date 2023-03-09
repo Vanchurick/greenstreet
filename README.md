@@ -10,7 +10,7 @@
 `git clone https://github.com/Vanchurick/greenstreet.git`
 
 ### 2. Install dependencies
-:tw-203c: **Add [ESlint](https://marketplace.visualstudio.com/items?itemname=dbaeumer.vscode-eslint "eslint") and [Prettier](https://marketplace.visualstudio.com/items?itemname=esbenp.prettier-vscode "prettier") as extensions for VS Code editor** :tw-203c:
+**Add [ESlint](https://marketplace.visualstudio.com/items?itemname=dbaeumer.vscode-eslint "eslint") and [Prettier](https://marketplace.visualstudio.com/items?itemname=esbenp.prettier-vscode "prettier") as extensions for VS Code editor**
 
 `npm install`
 
